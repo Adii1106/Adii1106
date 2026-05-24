@@ -37,6 +37,7 @@ education: Newton School of Technology, ADYPU
 role: Full Stack Developer · AI/ML Engineering Student
 currently: Building production-grade web apps & AI systems
 interests: [React, Next.js, Node.js, RAG, Real-time Systems, ML]
+fun_fact: Selected twice for Smart India Hackathon at college level 🏆
 ```
 
 I'm a **student developer** who loves turning ideas into **responsive, user-friendly applications** — from real-time collaborative tools to **RAG-powered AI chatbots**. I learn by building, one shipped project at a time.
@@ -242,12 +243,14 @@ const aditya = {
 
 <br/>
 
-<!-- Snake animation placeholder - requires workflow setup -->
-<!-- Uncomment after adding the snake workflow to your profile repo:
+<!-- Contribution snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Adii1106/Adii1106/output/github-contribution-grid-snake.svg" alt="Snake eating contributions"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adii1106/Adii1106/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adii1106/Adii1106/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/Adii1106/Adii1106/output/github-contribution-grid-snake.svg" alt="Snake eating my GitHub contributions"/>
+  </picture>
 </div>
--->
 
 <!-- Footer -->
 <div align="center">
@@ -257,13 +260,3 @@ const aditya = {
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=94A3B8&center=true&vCenter=true&width=500&lines=Still+learning%2C+still+building.;One+line+of+code+at+a+time.+%F0%9F%9A%80" alt="Footer typing"/>
 </div>
-
-<!-- 
-  SETUP: Copy this file to your GitHub profile repo as README.md
-  Repo: https://github.com/Adii1106/Adii1106
-  
-  Optional — Contribution Snake animation:
-  1. Create .github/workflows/snake.yml in your profile repo
-  2. Use Platane/snk action (see github.com/Platane/snk)
-  3. Uncomment the snake image section above
--->
