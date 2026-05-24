@@ -13,7 +13,6 @@
 <!-- Status & social badges -->
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Adii1106&label=Profile%20Views&color=10b981&style=for-the-badge)
 
   <br/><br/>
 
@@ -37,7 +36,6 @@ education: Newton School of Technology, ADYPU
 role: Full Stack Developer · AI/ML Engineering Student
 currently: Building production-grade web apps & AI systems
 interests: [React, Next.js, Node.js, RAG, Real-time Systems, ML]
-fun_fact: Selected twice for Smart India Hackathon at college level 🏆
 ```
 
 I'm a **student developer** who loves turning ideas into **responsive, user-friendly applications** — from real-time collaborative tools to **RAG-powered AI chatbots**. I learn by building, one shipped project at a time.
@@ -210,38 +208,9 @@ Real-time hand gesture detection using TensorFlow.js & MediaPipe Hands — inter
 <!-- Journey -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:10b981,100:06b6d4&height=50&section=header&text=Journey%20%26%20Highlights&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
 
-```
-2024 ──●── Smart India Hackathon (SIH) — Selected twice at college level
-       │
-       └──●── Tekron Tech Fest — Volunteered in logistics & event coordination
-```
 
 <br/>
 
-<!-- Currently -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366f1,100:8b5cf6&height=50&section=header&text=Currently&fontSize=22&fontColor=ffffff&animation=scaleIn"/>
-
-<div align="center">
-
-```javascript
-const aditya = {
-  working_on: "Production-grade full-stack & AI applications",
-  learning: ["System Design", "MERN architecture", "Advanced AI/ML", "DSA"],
-  looking_for: "Internships, collaborations & open-source contributions",
-  ask_me_about: ["React", "Node.js", "RAG pipelines", "Real-time apps"],
-};
-```
-
-</div>
-
-<br/>
-
-<!-- Trophy (optional flair) -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adii1106&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10" alt="GitHub Trophies"/>
-</div>
-
-<br/>
 
 <!-- Contribution snake -->
 <div align="center">
